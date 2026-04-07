@@ -1,2 +1,2 @@
-# gimini-integration
+# gemini-integration
 use gimini api by go
